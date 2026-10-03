@@ -1,14 +1,13 @@
 # Calc Blue
 
-A clean, responsive calculator website built with **React** and **Tailwind CSS v4**.
+A clean, responsive bald calculator website built with **React** and **Tailwind CSS v4**.
 
 > **DCIT 26: Application Development and Emerging Technologies**
 > Laboratory 1 · SY 2026–2027
 
 ## Live URL
 
-🔗 **[https://your-project.vercel.app](https://your-project.vercel.app)** _(replace after deployment)_
-
+🔗 **https://calcblue.vercel.app** 
 ## Features
 
 - Standard 4-function calculator (+, −, ×, ÷) with percent
@@ -43,22 +42,7 @@ npm run build
 npm run preview
 ```
 
-## Deployment
 
-### Vercel (Recommended)
-
-1. Push to GitHub
-2. Import the repo at [vercel.com/new](https://vercel.com/new)
-3. Framework preset: **Vite**
-4. Build command: `npm run build`
-5. Output directory: `dist`
-6. Deploy
-
-### Netlify (Alternative)
-
-1. Push to GitHub
-2. Import at [app.netlify.com](https://app.netlify.com)
-3. Build command: `npm run build`, publish directory: `dist`
 
 ## File Structure
 
